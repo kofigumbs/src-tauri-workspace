@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "not-a-workspace",
+    "productName": "custom-target",
     "version": "0.1.0"
   },
   "build": {
